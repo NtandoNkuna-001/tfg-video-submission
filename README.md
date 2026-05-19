@@ -1,8 +1,8 @@
 # My Video Submission – TFG
 
-This document serves as a declaration and overview of my video submission for TFG.
+This document serves as a formal overview of my video submission for TFG.
 
-In my video, I aimed to clearly articulate myself by answering the following key questions:
+In this video submission, I aimed to clearly articulate my background, qualifications, career aspirations, and enthusiasm for the opportunity by addressing the following key questions:
 
 ## Key Questions Addressed
 
@@ -12,5 +12,13 @@ In my video, I aimed to clearly articulate myself by answering the following key
 4. What are your career aspirations and long-term goals?
 5. What excites you the most about this opportunity with TFG?
 
-The purpose of this submission is to provide insight into my background, ambitions, and enthusiasm for the opportunity.
+## Submission Links
+
+- **Video Submission (Google Drive):**  
+  <https://drive.google.com/file/d/121Llvldq6waqwpyfsTuUD0dcLuV5_zed/view?usp=sharing>
+
+- **Raw Video File (GitHub Repository):**  
+  `Final_Submission.mp4`
+
+The purpose of this submission is to provide insight into my professional ambitions, personal motivation, and alignment with the values and opportunities offered by TFG.
 ```
