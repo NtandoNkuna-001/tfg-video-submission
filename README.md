@@ -18,7 +18,8 @@ In this video submission, I aimed to clearly articulate my background, qualifica
   <https://drive.google.com/file/d/121Llvldq6waqwpyfsTuUD0dcLuV5_zed/view?usp=sharing>
 
 - **Raw Video File (GitHub Repository):**  
-  `Final_Submission.mp4`
+  <https://github.com/NtandoNkuna-001/tfg-video-submission/blob/1131d441d4ef1696c52bcfd420002f8880ea44d6/Final_Submission.mp4>
+```
 
 The purpose of this submission is to provide insight into my professional ambitions, personal motivation, and alignment with the values and opportunities offered by TFG.
 ```
